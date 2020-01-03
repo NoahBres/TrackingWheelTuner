@@ -1,17 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18a36b73-2ac7-4e9e-b7fd-0ca7386776d8" name="Default Changelist" comment="" />
+    <list default="true" id="18a36b73-2ac7-4e9e-b7fd-0ca7386776d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_commons_commons_math3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrackingWheelTuner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TrackingWheelTuner.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrackingWheelTuner/META-INF/TrackingWheelTuner.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrackingWheelTuner/META-INF/TrackingWheelTuner.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrackingWheelTuner/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrackingWheelTuner/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VskOrLKQX7BoZ7XDw6YWN8fmjr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/commons-math3-3.6.1/commons-math3-3.6.1-tools.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -55,6 +94,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578049160331</updated>
+      <workItem from="1578049163011" duration="1316000" />
+      <workItem from="1578050501150" duration="1442000" />
     </task>
     <servers />
   </component>
@@ -62,21 +103,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="725" height="208" key="GridCell.Tab.0.bottom" timestamp="1578049208477">
+    <state x="772" y="129" key="DetectedRootsChooserDialog" timestamp="1578050575613">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578049208477" />
-    <state width="725" height="208" key="GridCell.Tab.0.center" timestamp="1578049208477">
+    <state x="772" y="129" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578050575613" />
+    <state x="722" y="155" key="FileChooserDialogImpl" timestamp="1578050726443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578049208477" />
-    <state width="725" height="208" key="GridCell.Tab.0.left" timestamp="1578049208476">
+    <state x="722" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578050726443" />
+    <state width="725" height="208" key="GridCell.Tab.0.bottom" timestamp="1578050489290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578049208476" />
-    <state width="725" height="208" key="GridCell.Tab.0.right" timestamp="1578049208477">
+    <state width="725" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578050489290" />
+    <state width="725" height="208" key="GridCell.Tab.0.center" timestamp="1578050489290">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578049208477" />
+    <state width="725" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578050489290" />
+    <state width="725" height="208" key="GridCell.Tab.0.left" timestamp="1578050489290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578050489290" />
+    <state width="725" height="208" key="GridCell.Tab.0.right" timestamp="1578050489290">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="725" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578050489290" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1578051014188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578051014188" />
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1578050512704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="849" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578050512704" />
+    <state x="747" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578051000018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="747" y="307" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1578051000018" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578050471606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578050471606" />
   </component>
 </project>
